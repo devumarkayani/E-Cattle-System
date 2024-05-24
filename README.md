@@ -1,3 +1,1 @@
-# E-Cattle-System-in-C-
-# E-Cattle-System-in-C-
-# E-Cattle-System-in-C-
+In the E-Cattle System , We add the record of Animals  like name ,price  ,quantity etc. It is about the  sale ,purchase  and also the data  of Animals  store in the  the files. It help  the begineer  to  understand the  programing language deeply and  and How and know  about the classes and objects , functions .I also use the use the fstream library for the  Read  and  Write the   data from the files.Also Maintain the data. This is very Helpfull.......................
